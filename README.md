@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Haider Ali Afzal 👋</h1>
 <h3 align="center">Senior AI Integration & Full-Stack Engineer · Lead Architect of Studio98AI</h3>
 
@@ -105,8 +104,10 @@ Currently   : LangGraph · Model Context Protocol · VAPI · Retell · n8n
 ---
 
 <h3 align="center">🤝 Let's build something that works.</h3>
+
 <p align="center">
   <a href="https://www.haideraliafzal.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/haideraliafzal">LinkedIn</a> ·
   <a href="https://studio98.ai">Studio98AI</a> ·
   <a href="mailto:contact@haideraliafzal.com">contact@haideraliafzal.com</a>
 </p>
